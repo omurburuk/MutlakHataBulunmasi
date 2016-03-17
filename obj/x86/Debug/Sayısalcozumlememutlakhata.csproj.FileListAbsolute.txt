@@ -1,0 +1,8 @@
+c:\users\ömür\documents\visual studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\bin\Debug\Sayısalcozumlememutlakhata.exe
+c:\users\ömür\documents\visual studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\bin\Debug\Sayısalcozumlememutlakhata.pdb
+c:\users\ömür\documents\visual studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\obj\x86\Debug\Sayısalcozumlememutlakhata.Form1.resources
+c:\users\ömür\documents\visual studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\obj\x86\Debug\Sayısalcozumlememutlakhata.Properties.Resources.resources
+c:\users\ömür\documents\visual studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\obj\x86\Debug\Sayısalcozumlememutlakhata.csproj.GenerateResource.Cache
+c:\users\ömür\documents\visual studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\obj\x86\Debug\Sayısalcozumlememutlakhata.exe
+c:\users\ömür\documents\visual studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\obj\x86\Debug\Sayısalcozumlememutlakhata.pdb
+C:\Users\ömür\Documents\Visual Studio 2010\Projects\Sayısalcozumlememutlakhata\Sayısalcozumlememutlakhata\obj\x86\Debug\Sayısalcozumlememutlakhata.csprojResolveAssemblyReference.cache
